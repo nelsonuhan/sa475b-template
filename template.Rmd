@@ -1,0 +1,68 @@
+---
+title: Title of Project
+author: 
+- MIDN 1/C First TeamMember
+- MIDN 1/C Second TeamMember
+- MIDN 1/C Third TeamMember
+- MIDN 1/C Fourth TeamMember
+date: Spring 2018
+output: 
+  pdf_document:
+    template: sa475b.latex
+    number_sections: true
+---
+
+# Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nibh vel sem mollis, nec fermentum sapien faucibus. Sed sodales congue dapibus. Nunc vel dictum nibh. Nullam sollicitudin, est a porttitor sagittis, lacus dolor eleifend nunc, eget laoreet massa odio vel nunc. Maecenas nisl neque, elementum sed metus quis, porttitor cursus nibh. Aliquam est eros, vehicula sit amet nulla a, pellentesque lobortis lectus.
+
+Sed mollis imperdiet sapien, in dictum sem porta non. Mauris facilisis risus a scelerisque fringilla. Sed iaculis, nisl et tempus feugiat, ligula lacus fringilla eros, eu aliquam leo tortor a diam. Pellentesque et nunc ac libero euismod viverra et quis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum convallis tortor, vulputate pellentesque ligula rutrum at. Maecenas vulputate nisl ac nibh semper, eget congue leo gravida.
+
+# Literature Review
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nibh vel sem mollis, nec fermentum sapien faucibus. Sed sodales congue dapibus. Nunc vel dictum nibh. Nullam sollicitudin, est a porttitor sagittis, lacus dolor eleifend nunc, eget laoreet massa odio vel nunc. Maecenas nisl neque, elementum sed metus quis, porttitor cursus nibh. Aliquam est eros, vehicula sit amet nulla a, pellentesque lobortis lectus.
+
+Sed mollis imperdiet sapien, in dictum sem porta non. Mauris facilisis risus a scelerisque fringilla. Sed iaculis, nisl et tempus feugiat, ligula lacus fringilla eros, eu aliquam leo tortor a diam. Pellentesque et nunc ac libero euismod viverra et quis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum convallis tortor, vulputate pellentesque ligula rutrum at. Maecenas vulputate nisl ac nibh semper, eget congue leo gravida.
+
+# Input Data
+
+Sed mollis imperdiet sapien, in dictum sem porta non. Mauris facilisis risus a scelerisque fringilla. Sed iaculis, nisl et tempus feugiat, ligula lacus fringilla eros, eu aliquam leo tortor a diam. Pellentesque et nunc ac libero euismod viverra et quis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum convallis tortor, vulputate pellentesque ligula rutrum at. Maecenas vulputate nisl ac nibh semper, eget congue leo gravida.
+
+Sed mollis imperdiet sapien, in dictum sem porta non. Mauris facilisis risus a scelerisque fringilla. Sed iaculis, nisl et tempus feugiat, ligula lacus fringilla eros, eu aliquam leo tortor a diam. Pellentesque et nunc ac libero euismod viverra et quis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum convallis tortor, vulputate pellentesque ligula rutrum at. Maecenas vulputate nisl ac nibh semper, eget congue leo gravida.
+
+# Model 
+
+Sed mollis imperdiet sapien, in dictum sem porta non. Mauris facilisis risus a scelerisque fringilla. Sed iaculis, nisl et tempus feugiat, ligula lacus fringilla eros, eu aliquam leo tortor a diam. Pellentesque et nunc ac libero euismod viverra et quis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum convallis tortor, vulputate pellentesque ligula rutrum at. Maecenas vulputate nisl ac nibh semper, eget congue leo gravida.
+
+Sed mollis imperdiet sapien, in dictum sem porta non. Mauris facilisis risus a scelerisque fringilla. Sed iaculis, nisl et tempus feugiat, ligula lacus fringilla eros, eu aliquam leo tortor a diam. Pellentesque et nunc ac libero euismod viverra et quis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum convallis tortor, vulputate pellentesque ligula rutrum at. Maecenas vulputate nisl ac nibh semper, eget congue leo gravida.
+
+# Experimental Setup
+
+Sed mollis imperdiet sapien, in dictum sem porta non. Mauris facilisis risus a scelerisque fringilla. Sed iaculis, nisl et tempus feugiat, ligula lacus fringilla eros, eu aliquam leo tortor a diam. Pellentesque et nunc ac libero euismod viverra et quis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum convallis tortor, vulputate pellentesque ligula rutrum at. Maecenas vulputate nisl ac nibh semper, eget congue leo gravida.
+
+Sed mollis imperdiet sapien, in dictum sem porta non. Mauris facilisis risus a scelerisque fringilla. Sed iaculis, nisl et tempus feugiat, ligula lacus fringilla eros, eu aliquam leo tortor a diam. Pellentesque et nunc ac libero euismod viverra et quis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla rutrum convallis tortor, vulputate pellentesque ligula rutrum at. Maecenas vulputate nisl ac nibh semper, eget congue leo gravida.
+
+# Results
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nibh vel sem mollis, nec fermentum sapien faucibus. Sed sodales congue dapibus. Nunc vel dictum nibh. Nullam sollicitudin, est a porttitor sagittis, lacus dolor eleifend nunc, eget laoreet massa odio vel nunc. Maecenas nisl neque, elementum sed metus quis, porttitor cursus nibh. Aliquam est eros, vehicula sit amet nulla a, pellentesque lobortis lectus.
+
+# Conclusion
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nibh vel sem mollis, nec fermentum sapien faucibus. Sed sodales congue dapibus. Nunc vel dictum nibh. Nullam sollicitudin, est a porttitor sagittis, lacus dolor eleifend nunc, eget laoreet massa odio vel nunc. Maecenas nisl neque, elementum sed metus quis, porttitor cursus nibh. Aliquam est eros, vehicula sit amet nulla a, pellentesque lobortis lectus.
+
+<!-- The {-} in the section title makes the section unnumbered,
+     which is the expected format for the References section. -->
+     
+# References {-}
+
+<!-- The next four lines automatically make a hanging indent for
+     all subsequent paragraphs. -->
+
+\setlength{\parindent}{-2em}
+\setlength{\leftskip}{2em}
+\setlength{\parskip}{8pt}
+\noindent
+
+Bertsimas, D. & Brown, D. B. (2009). Constructing uncertainty sets for robust linear optimization. _Operations Research, 57_, 1483-1495.
+
+Martin, C. H. (2004). Ohio University's College of Business uses integer programming to schedule classes. _Interfaces, 34_(6), 460-465.
