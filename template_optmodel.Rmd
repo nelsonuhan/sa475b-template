@@ -1,0 +1,58 @@
+---
+title: An Optimization Model in LaTeX / R Markdown
+author: 
+- MIDN 1/C First TeamMember
+- MIDN 1/C Second TeamMember
+- MIDN 1/C Third TeamMember
+- MIDN 1/C Fourth TeamMember
+date: Spring 2018
+output: 
+  pdf_document:
+    template: sa475b.latex
+    number_sections: true
+---
+
+# Model
+
+In this section, we describe our optimization model.
+
+## Sets
+
+First, we define the following sets: let $F$ be the set of foods available, and let $N$ be the set of nutrients.
+
+## Parameters
+
+Next, we define the following parameters. For all $i \in N$ and $j \in F$, let $a_{ij}$ be the amount of nutrient $i$ in 1 unit of food $j$. For all $i \in N$, let $n_{i}^{\min}$ and $n_{i}^{\max}$ be the recommended lower and upper daily limits on nutrient $i$, respectively.  For all $j \in F$, let $f_{j}^{\min}$ and $f_{j}^{\max}$ be the recommended lower and upper daily limits on the amount of food $j$ eaten, respectively. Finally, for all $j \in F$, let $c_{j}$ be the unit cost of food $j$. 
+
+## Decision variables
+
+We define the following decision variables:
+\[
+  x_j = \text{the amount of food~$j$ in the diet} \quad \text{for } j \in F
+\]
+
+## Objective function
+
+The objective is to minimize the total cost of the food in the diet:
+\[
+  \text{minimize} \quad \sum_{j \in F} c_j x_j \\
+\]
+
+## Constraints
+
+We need to ensure that the food chosen in the diet meets the recommended lower daily limits on all the nutrients: 
+\[
+  \sum_{j \in F} a_{ij} x_{j} \ge n_{i}^{\min} \quad \text{for } i \in N 
+\]
+We also need to ensure that the food chosen in the diet meets the recommended upper daily limits on all the nutrients: 
+\[
+  \sum_{j \in F} a_{ij} x_{j} \le n_{i}^{\max} \quad \text{for } i \in N 
+\]
+In addition, we need to ensure that the amounts of food in the diet meet the recommended lower and upper daily limits:
+\[
+  f_{j}^{\min} \le x_{j} \le f_{j}^{\max} \quad \text{for } j \in F
+\]
+Finally, we have nonnegativity constraints:
+\[
+  x_j \ge 0 \quad \text{for } j \in F
+\]
